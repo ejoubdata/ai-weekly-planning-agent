@@ -1,0 +1,21 @@
+credentials_*.json
+token_*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Secrets
+.env
+credentials_calendar.json
+credentials_gmail.json
+
+# Tokens
+token_calendar.json
+token_gmail.json
+
+# macOS
+.DS_Store
