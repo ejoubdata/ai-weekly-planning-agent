@@ -19,3 +19,5 @@ token_gmail.json
 
 # macOS
 .DS_Store
+
+.ipynb_checkpoints
